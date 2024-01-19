@@ -1,0 +1,37 @@
+WARNING: I HAVE NOT DONE TESTS. THESE ARE ALL MY OPINION AND ARE NOT VERY WELL INFORMED
+
+Favorite shader: Photon
+
+Photon shaders
+Pros: Good colored lighting, good performance
+Cons: 9001 settings to change, not being updated, old
+
+Nostalgia shaders
+Pros: Looks pretty good in daylight
+Cons: Bad performance, not very good cave lighting (for mining and things)
+
+Arc shaders
+Idk
+
+Seus shaders
+Pros: Very good at testing your gpu, very realistic
+Cons: Horrible performance, not for every day use
+
+Solas shaders
+Idk
+
+Shrimple shaders
+Pros: Good performance, pretty good customizability
+Cons: Not very good lighting in general, not good colored lights
+
+Vanilla+ shaders
+Pros: Lightweight
+Cons: Not good shaders
+
+Rethinking Voxels shaders
+Pros: Real raytracing, pretty good lighting in general
+Cons: Performance about as good as seus, abismal. Colored lighting sucks
+
+Soft Voxels Lite shaders
+Pros: Raytracing (I think), looks good
+Cons: Mediocre performance
